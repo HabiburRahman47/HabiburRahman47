@@ -21,6 +21,11 @@ I enjoy learning new technologies, solving real-world problems, and delivering s
 - Android (Java, Kotlin)
 
 ### Backend & Web
+- JavaScript
+- TypeScript
+- Node js
+- Express js
+- React js
 - Java
 - Spring Boot
 - REST APIs
