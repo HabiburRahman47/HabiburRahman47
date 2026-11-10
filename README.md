@@ -43,6 +43,7 @@ I enjoy solving technical problems, designing maintainable software, and continu
 - JavaScript & TypeScript
 - React.js
 - Flutter & Dart
+- Python & Django
 - Android Development (Java/Kotlin)
 
 ---
